@@ -1,0 +1,537 @@
+Total Count
+===================================
+Article Count
+{
+   "0": 238,
+   "1": 262
+}
+-----------------------------------
+
+Token Count
+{
+   "0": 300040,
+   "1": 10222
+}
+-----------------------------------
+
+Sentence Count
+{
+   "0": 11832,
+   "1": 933
+}
+===================================
+
+
+Newspaper-wise Total Count
+===================================
+Article Count
+{
+   "AKH": {
+      "1": 23,
+      "0": 27
+   },
+   "AH": {
+      "0": 23,
+      "1": 27
+   },
+   "BH": {
+      "0": 33,
+      "1": 17
+   },
+   "DH": {
+      "1": 14,
+      "0": 36
+   },
+   "HH": {
+      "1": 21,
+      "0": 29
+   },
+   "KH": {
+      "1": 37,
+      "0": 13
+   },
+   "MH": {
+      "1": 30,
+      "0": 20
+   },
+   "PH": {
+      "0": 10,
+      "1": 40
+   },
+   "SSH": {
+      "0": 38,
+      "1": 12
+   },
+   "TH": {
+      "0": 9,
+      "1": 41
+   }
+}
+-----------------------------------
+
+Token Count
+{
+   "AKH": {
+      "1": 1136,
+      "0": 27749
+   },
+   "AH": {
+      "0": 18492,
+      "1": 1024
+   },
+   "BH": {
+      "0": 22413,
+      "1": 324
+   },
+   "DH": {
+      "1": 129,
+      "0": 21952
+   },
+   "HH": {
+      "1": 176,
+      "0": 20599
+   },
+   "KH": {
+      "1": 1303,
+      "0": 38157
+   },
+   "MH": {
+      "1": 1507,
+      "0": 39784
+   },
+   "PH": {
+      "0": 43795,
+      "1": 1960
+   },
+   "SSH": {
+      "0": 24019,
+      "1": 244
+   },
+   "TH": {
+      "0": 43080,
+      "1": 2419
+   }
+}
+-----------------------------------
+
+Sentence Count
+{
+   "AKH": {
+      "1": 68,
+      "0": 1032
+   },
+   "AH": {
+      "0": 876,
+      "1": 94
+   },
+   "BH": {
+      "0": 1171,
+      "1": 25
+   },
+   "DH": {
+      "1": 20,
+      "0": 1054
+   },
+   "HH": {
+      "1": 38,
+      "0": 894
+   },
+   "KH": {
+      "1": 120,
+      "0": 1322
+   },
+   "MH": {
+      "1": 94,
+      "0": 1371
+   },
+   "PH": {
+      "0": 1724,
+      "1": 189
+   },
+   "SSH": {
+      "0": 1117,
+      "1": 31
+   },
+   "TH": {
+      "0": 1271,
+      "1": 254
+   }
+}
+===================================
+
+
+Total Technique Count
+===================================
+Article Count
+{
+   "Flag-Waving": 169,
+   "Loaded_Language": 196,
+   "Slogans": 85,
+   "Red_Herring": 37,
+   "Repetition": 114,
+   "Name_Calling_Labeling": 192,
+   "Doubt": 29,
+   "Whataboutism": 20,
+   "Causal_Oversimplification": 16,
+   "Thought-terminating_Cliches": 3,
+   "Reductio_ad_hitlerum": 35,
+   "Black-and-White_Fallacy": 1,
+   "Obfuscation_Confusion": 1,
+   "Appeal_to_fear-prejudice": 8,
+   "Straw_Men": 4,
+   "Exaggeration": 1
+}
+-----------------------------------
+
+Token Count
+{
+   "Flag-Waving": 2534,
+   "Loaded_Language": 892,
+   "Slogans": 332,
+   "Red_Herring": 1127,
+   "Repetition": 2513,
+   "Name_Calling_Labeling": 371,
+   "Doubt": 504,
+   "Whataboutism": 725,
+   "Causal_Oversimplification": 280,
+   "Thought-terminating_Cliches": 18,
+   "Reductio_ad_hitlerum": 611,
+   "Black-and-White_Fallacy": 31,
+   "Obfuscation_Confusion": 30,
+   "Appeal_to_fear-prejudice": 178,
+   "Straw_Men": 53,
+   "Exaggeration": 23
+}
+-----------------------------------
+
+Sentence Count
+{
+   "Flag-Waving": 178,
+   "Loaded_Language": 196,
+   "Slogans": 85,
+   "Red_Herring": 40,
+   "Repetition": 115,
+   "Name_Calling_Labeling": 192,
+   "Doubt": 29,
+   "Whataboutism": 27,
+   "Causal_Oversimplification": 16,
+   "Thought-terminating_Cliches": 3,
+   "Reductio_ad_hitlerum": 35,
+   "Black-and-White_Fallacy": 1,
+   "Obfuscation_Confusion": 2,
+   "Appeal_to_fear-prejudice": 9,
+   "Straw_Men": 4,
+   "Exaggeration": 1
+}
+===================================
+
+
+Newspaper-wise Total Technique Count
+===================================
+Article Count
+-----------------------------------
+{
+   "AKH": {
+      "Flag-Waving": 12,
+      "Loaded_Language": 8,
+      "Slogans": 3,
+      "Red_Herring": 4,
+      "Repetition": 27,
+      "Name_Calling_Labeling": 7,
+      "Doubt": 1,
+      "Whataboutism": 3,
+      "Causal_Oversimplification": 2
+   },
+   "AH": {
+      "Repetition": 20,
+      "Loaded_Language": 24,
+      "Causal_Oversimplification": 7,
+      "Flag-Waving": 10,
+      "Slogans": 20,
+      "Red_Herring": 4,
+      "Thought-terminating_Cliches": 1,
+      "Whataboutism": 5,
+      "Name_Calling_Labeling": 1,
+      "Doubt": 2
+   },
+   "BH": {
+      "Flag-Waving": 16,
+      "Causal_Oversimplification": 3,
+      "Loaded_Language": 5
+   },
+   "DH": {
+      "Flag-Waving": 2,
+      "Repetition": 2,
+      "Loaded_Language": 14,
+      "Name_Calling_Labeling": 2
+   },
+   "HH": {
+      "Loaded_Language": 21,
+      "Flag-Waving": 8,
+      "Causal_Oversimplification": 1,
+      "Slogans": 2,
+      "Name_Calling_Labeling": 5
+   },
+   "KH": {
+      "Loaded_Language": 15,
+      "Flag-Waving": 44,
+      "Name_Calling_Labeling": 19,
+      "Reductio_ad_hitlerum": 6,
+      "Whataboutism": 2,
+      "Slogans": 14,
+      "Red_Herring": 2,
+      "Repetition": 15,
+      "Doubt": 1
+   },
+   "MH": {
+      "Loaded_Language": 11,
+      "Doubt": 10,
+      "Flag-Waving": 12,
+      "Slogans": 10,
+      "Reductio_ad_hitlerum": 4,
+      "Repetition": 32,
+      "Name_Calling_Labeling": 10,
+      "Whataboutism": 4,
+      "Black-and-White_Fallacy": 1
+   },
+   "PH": {
+      "Slogans": 20,
+      "Loaded_Language": 37,
+      "Name_Calling_Labeling": 46,
+      "Thought-terminating_Cliches": 2,
+      "Flag-Waving": 30,
+      "Whataboutism": 5,
+      "Obfuscation_Confusion": 1,
+      "Appeal_to_fear-prejudice": 3,
+      "Reductio_ad_hitlerum": 8,
+      "Doubt": 7,
+      "Red_Herring": 2,
+      "Repetition": 14
+   },
+   "SSH": {
+      "Loaded_Language": 17,
+      "Flag-Waving": 12,
+      "Slogans": 1
+   },
+   "TH": {
+      "Loaded_Language": 44,
+      "Slogans": 15,
+      "Name_Calling_Labeling": 102,
+      "Doubt": 8,
+      "Flag-Waving": 23,
+      "Reductio_ad_hitlerum": 17,
+      "Straw_Men": 4,
+      "Appeal_to_fear-prejudice": 5,
+      "Whataboutism": 1,
+      "Red_Herring": 25,
+      "Repetition": 4,
+      "Causal_Oversimplification": 3,
+      "Exaggeration": 1
+   }
+}
+-----------------------------------
+Token Count
+-----------------------------------
+{
+   "AKH": {
+      "Flag-Waving": 254,
+      "Loaded_Language": 45,
+      "Slogans": 15,
+      "Red_Herring": 52,
+      "Repetition": 644,
+      "Name_Calling_Labeling": 10,
+      "Doubt": 21,
+      "Whataboutism": 68,
+      "Causal_Oversimplification": 27
+   },
+   "AH": {
+      "Repetition": 316,
+      "Loaded_Language": 157,
+      "Causal_Oversimplification": 123,
+      "Flag-Waving": 127,
+      "Slogans": 72,
+      "Red_Herring": 72,
+      "Thought-terminating_Cliches": 4,
+      "Whataboutism": 121,
+      "Name_Calling_Labeling": 2,
+      "Doubt": 30
+   },
+   "BH": {
+      "Flag-Waving": 258,
+      "Causal_Oversimplification": 48,
+      "Loaded_Language": 18
+   },
+   "DH": {
+      "Flag-Waving": 28,
+      "Repetition": 41,
+      "Loaded_Language": 54,
+      "Name_Calling_Labeling": 6
+   },
+   "HH": {
+      "Loaded_Language": 87,
+      "Flag-Waving": 60,
+      "Causal_Oversimplification": 7,
+      "Slogans": 6,
+      "Name_Calling_Labeling": 16
+   },
+   "KH": {
+      "Loaded_Language": 44,
+      "Flag-Waving": 596,
+      "Name_Calling_Labeling": 22,
+      "Reductio_ad_hitlerum": 94,
+      "Whataboutism": 50,
+      "Slogans": 48,
+      "Red_Herring": 144,
+      "Repetition": 281,
+      "Doubt": 24
+   },
+   "MH": {
+      "Loaded_Language": 41,
+      "Doubt": 182,
+      "Flag-Waving": 188,
+      "Slogans": 53,
+      "Reductio_ad_hitlerum": 46,
+      "Repetition": 792,
+      "Name_Calling_Labeling": 24,
+      "Whataboutism": 150,
+      "Black-and-White_Fallacy": 31
+   },
+   "PH": {
+      "Slogans": 74,
+      "Loaded_Language": 149,
+      "Name_Calling_Labeling": 93,
+      "Thought-terminating_Cliches": 14,
+      "Flag-Waving": 527,
+      "Whataboutism": 316,
+      "Obfuscation_Confusion": 30,
+      "Appeal_to_fear-prejudice": 87,
+      "Reductio_ad_hitlerum": 139,
+      "Doubt": 102,
+      "Red_Herring": 61,
+      "Repetition": 368
+   },
+   "SSH": {
+      "Loaded_Language": 101,
+      "Flag-Waving": 139,
+      "Slogans": 4
+   },
+   "TH": {
+      "Loaded_Language": 196,
+      "Slogans": 60,
+      "Name_Calling_Labeling": 198,
+      "Doubt": 145,
+      "Flag-Waving": 357,
+      "Reductio_ad_hitlerum": 332,
+      "Straw_Men": 53,
+      "Appeal_to_fear-prejudice": 91,
+      "Whataboutism": 20,
+      "Red_Herring": 798,
+      "Repetition": 71,
+      "Causal_Oversimplification": 75,
+      "Exaggeration": 23
+   }
+}
+-----------------------------------
+Sentence Count
+-----------------------------------
+{
+   "AKH": {
+      "Flag-Waving": 13,
+      "Loaded_Language": 8,
+      "Slogans": 3,
+      "Red_Herring": 4,
+      "Repetition": 27,
+      "Name_Calling_Labeling": 7,
+      "Doubt": 1,
+      "Whataboutism": 3,
+      "Causal_Oversimplification": 2
+   },
+   "AH": {
+      "Repetition": 20,
+      "Loaded_Language": 24,
+      "Causal_Oversimplification": 7,
+      "Flag-Waving": 10,
+      "Slogans": 20,
+      "Red_Herring": 4,
+      "Thought-terminating_Cliches": 1,
+      "Whataboutism": 5,
+      "Name_Calling_Labeling": 1,
+      "Doubt": 2
+   },
+   "BH": {
+      "Flag-Waving": 17,
+      "Causal_Oversimplification": 3,
+      "Loaded_Language": 5
+   },
+   "DH": {
+      "Flag-Waving": 2,
+      "Repetition": 2,
+      "Loaded_Language": 14,
+      "Name_Calling_Labeling": 2
+   },
+   "HH": {
+      "Loaded_Language": 21,
+      "Flag-Waving": 9,
+      "Causal_Oversimplification": 1,
+      "Slogans": 2,
+      "Name_Calling_Labeling": 5
+   },
+   "KH": {
+      "Loaded_Language": 15,
+      "Flag-Waving": 44,
+      "Name_Calling_Labeling": 19,
+      "Reductio_ad_hitlerum": 6,
+      "Whataboutism": 2,
+      "Slogans": 14,
+      "Red_Herring": 4,
+      "Repetition": 15,
+      "Doubt": 1
+   },
+   "MH": {
+      "Loaded_Language": 11,
+      "Doubt": 10,
+      "Flag-Waving": 12,
+      "Slogans": 10,
+      "Reductio_ad_hitlerum": 4,
+      "Repetition": 32,
+      "Name_Calling_Labeling": 10,
+      "Whataboutism": 4,
+      "Black-and-White_Fallacy": 1
+   },
+   "PH": {
+      "Slogans": 20,
+      "Loaded_Language": 37,
+      "Name_Calling_Labeling": 46,
+      "Thought-terminating_Cliches": 2,
+      "Flag-Waving": 34,
+      "Whataboutism": 12,
+      "Obfuscation_Confusion": 2,
+      "Appeal_to_fear-prejudice": 4,
+      "Reductio_ad_hitlerum": 8,
+      "Doubt": 7,
+      "Red_Herring": 2,
+      "Repetition": 15
+   },
+   "SSH": {
+      "Loaded_Language": 17,
+      "Flag-Waving": 13,
+      "Slogans": 1
+   },
+   "TH": {
+      "Loaded_Language": 44,
+      "Slogans": 15,
+      "Name_Calling_Labeling": 102,
+      "Doubt": 8,
+      "Flag-Waving": 24,
+      "Reductio_ad_hitlerum": 17,
+      "Straw_Men": 4,
+      "Appeal_to_fear-prejudice": 5,
+      "Whataboutism": 1,
+      "Red_Herring": 26,
+      "Repetition": 4,
+      "Causal_Oversimplification": 3,
+      "Exaggeration": 1
+   }
+}
+===================================
+
