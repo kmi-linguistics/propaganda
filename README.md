@@ -7,7 +7,7 @@ This data is used for automatic detection of propaganda in Hindi and two support
 This version has two phases and both of these phases has two divisons: Annotated data and Raw data. Phase - 1 has the data which is used the pilot of this work for automatic detection and result as well. The Phase - 2 data is used in two imporatnt case studies of this research work. Though, in the final stage of this research whole data of phase - 1 and 2 is used to train and test language models for automatic detection of propaganda in Hindi.
 
 #### Data Structure
-Navigation - Dataset -> v0.1 -> Phase - 1 -> {1. Annotated and 2. Raw}
+Navigation - Dataset -> v0.1 -> Phase - 1 -> {1. Annotated and 2. Raw},
                                 Phase - 2 -> {1. Annotated and 2. Raw}
 
 ### v0.2 
